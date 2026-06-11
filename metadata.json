@@ -1,0 +1,6 @@
+{
+  "name": "Custom Prompt Chat",
+  "description": "Run LLM APIs, customize task-specific system prompts, switch models seamlessly, and save your secure keys with fully cached local chat histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
